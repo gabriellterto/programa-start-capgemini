@@ -31,9 +31,10 @@ A estrutura do repositório está organizada da seguinte forma:
 ```
 📦 programa-start-capgemini 
 ├── 📁 html 
-│ ├── 📁 anotacoes 
-│ ├── 📁 codigos-fonte 
-│ └── 📁 exercicios 
+| ├── 📁 tags-estruturais
+│ | ├── 📁 anotacoes 
+│ | ├── 📁 codigos-fonte 
+│ | └── 📁 exercicios 
 ├── 📁 css 
 │ ├── 📁 anotacoes 
 │ ├── 📁 codigos-fonte 
