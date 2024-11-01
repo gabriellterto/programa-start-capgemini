@@ -1,0 +1,9 @@
+﻿html {
+    color: #ee0000;
+    background-color: #000;
+    background-image: url("https://files.meiobit.com/wp-content/uploads/2015/10/20151013coringa.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    background-size: contain;
+}
