@@ -1,0 +1,37 @@
+﻿body {
+    background-color: black;
+    margin: 0;
+}
+
+.box {
+    box-sizing:border-box;
+    height: 100px;
+    width: 100px;
+    border: 3px solid yellow;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0 5px 10px;
+}
+
+.vermelho {
+    background-color: red;
+    border-width: 5px;
+    border-style: dashed;
+    margin-top: 0;
+}
+
+.azul {
+    background-color: blue;
+    border-width: 10px 0px 5px 3px;
+    border-bottom-style: double;
+    border-radius: 0 0 50px 10px;
+    margin-bottom: 50px;
+}
+
+.verde {
+    background-color: green;
+    border-bottom-width: 0px;
+    border-style: solid;
+    border-top-left-radius: 50px;
+    margin-left: 0;
+}
