@@ -1,0 +1,21 @@
+﻿main p {
+    text-indent: 2rem;
+    text-align: start;
+}
+
+main {
+    font-family: sans-serif;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h2#titulo-primeira-aula {
+    text-decoration: underline;
+    letter-spacing: 1.4rem;
+}
+
+p {
+    text-transform: capitalize;
+}
