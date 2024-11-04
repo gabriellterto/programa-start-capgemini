@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <script>
+        function acao() {
+            //Obter o elemento h1
+            var texto = document.getElementsByTagName("h1")[0];
+
+            //CSS
+            texto.style.color = "red";
+            texto.style.fontSize = "20px";
+
+            //Alterar o conteúdo do h1
+            texto.innerHTML = "Curso de JavaScript";
+        }
+    </script>
+</head>
+<body>
+    <h1>JavaScript</h1>
+    <button onclick="acao()">Clique aqui</button>
+</body>
+</html>
